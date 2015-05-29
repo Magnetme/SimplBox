@@ -1,0 +1,22 @@
+{
+  "name": "SimplBox",
+  "version": "1.0.0",
+  "description": "Lightbox for images within angular app",
+  "main": "simplbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Magnetme/SimplBox.git"
+  },
+  "keywords": [
+    "lightbox"
+  ],
+  "author": "Magnet.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magnetme/SimplBox/issues"
+  },
+  "homepage": "https://github.com/Magnetme/SimplBox"
+}
