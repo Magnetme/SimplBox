@@ -23,8 +23,6 @@ module.exports = {
 
                 isEventListener = ADDEVENTLISTENER in document;
 
-            console.log(bodyElem);
-
             function SimplBox(p_Elements, p_Options) {
                 var base = this;
 
